@@ -57,8 +57,8 @@
 
 // Console.WriteLine($"Числовой ряд: {String.Join(", ", array)};");
 
-// double max = 0;
-// double min = array[array.Length - 1];
+// double max = array[0];
+// double min = array[0];
 // for (int j = 0; j < array.Length; j++)
 // {
 //     if (array[j] > max) max = array[j];
